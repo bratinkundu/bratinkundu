@@ -8,7 +8,7 @@ I'm Bratin Kundu, I'm a software engineer 👨‍💻 who is passionate about ne
 
 - 🔭 I’m currently working on Angular, .NET
 - 🌱 I’m currently learning JavaScript, React & Vue.js
-- 💬 Ask me about: tech, memes, anime
+- 💬 Ask me about: tech, memes, community
 - 😄 Pronouns: he/him
 -  ⚡ Languages: C#, Kotlin, Python
 

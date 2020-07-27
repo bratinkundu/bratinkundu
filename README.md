@@ -3,10 +3,10 @@
 [![Gmail Badge](https://img.shields.io/badge/-bkundu53@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kraghav123@gmail.com)](mailto:bkundu3@gmail.com)
 
 ## Hi 👋, 
-I'm Bratin Kundu, I'm a software engineer 👨‍💻 who is passionate about mobile technologies and open source.  
+I'm Bratin Kundu, I'm a software engineer 👨‍💻 who is passionate about new technologies and open source.  
 🏄‍♂️. 
 
-- 🔭 I’m currently working on Angualar, .NET
+- 🔭 I’m currently working on Angular, .NET
 - 🌱 I’m currently learning JavaScript, React & Vue.js
 - 💬 Ask me about: tech, memes, anime
 - 😄 Pronouns: he/him

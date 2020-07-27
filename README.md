@@ -6,6 +6,11 @@
 I'm Bratin Kundu, I'm a software engineer 👨‍💻 who is passionate about new technologies and open source.  
 🏄‍♂️. 
 
+## My community involvement 🚀
+- Ex developer Student Club Lead
+- Organizer at Mehsana Developers Club
+
+## About me 💪
 - 🔭 I’m currently working on Angular, .NET
 - 🌱 I’m currently learning JavaScript, React & Vue.js
 - 💬 Ask me about: tech, memes, community

@@ -15,4 +15,4 @@ I'm Bratin Kundu, I'm a software engineer 👨‍💻 who is passionate about ne
 
 
 ---
-⭐️ From [Bartin Kundu](https://github.com/bratinkundu)
+⭐️ From [Bratin Kundu](https://github.com/bratinkundu)

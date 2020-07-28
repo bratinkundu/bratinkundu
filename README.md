@@ -7,7 +7,7 @@ I'm Bratin Kundu, I'm a software engineer 👨‍💻 who is passionate about ne
 🏄‍♂️. 
 
 ## My community involvement 🚀
-- Ex developer Student Club Lead
+- Ex Developer Student Club Lead
 - Organizer at Mehsana Developers Club
 
 ## About me 💪

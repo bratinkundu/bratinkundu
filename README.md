@@ -11,11 +11,11 @@ I'm Bratin Kundu, I'm a software engineer 👨‍💻 who is passionate about ne
 - Organizer at Mehsana Developers Club
 
 ## About me 💪
-- 🔭 I’m currently working on Angular, .NET, Firebase
-- 🌱 I’m currently learning JavaScript, NodeJs, React & Vue.js
+- 🔭 I’m currently working on Angular, JavaScript, Firebase, NodeJS, React
+- 🌱 I’m currently learning Vue.js
 - 💬 Ask me about: tech, memes, community
 - 😄 Pronouns: he/him
--  ⚡ Languages: C#, Kotlin, Python
+-  ⚡ Languages: C#, Kotlin, Python, .NET
 
 
 
